@@ -1,56 +1,36 @@
-# 📊 Sales Performance Analysis & Excel Dashboard
+# Excel Sales Performance Dashboard
 
-## 📌 Project Overview
+## Project Overview
+An interactive Sales Performance Dashboard built using Microsoft Excel to analyze sales data and generate meaningful business insights.
 
-This project analyzes sales performance data using Microsoft Excel and presents the findings through an interactive dashboard.
+## Tools Used
+- Microsoft Excel
+- PivotTables
+- PivotCharts
+- Slicers
+- Excel formulas
+- KPI Cards
 
-The analysis focuses on sales, profit, profitability, regional performance, category performance, and yearly trends.
+## Key Features
+- Total Sales KPI
+- Total Profit KPI
+- Profit Margin KPI
+- Number of Orders KPI
+- Monthly Sales Trend Analysis
+- Sales by Region
+- Profit by Region
+- Sales by Category
+- Interactive Region Slicer
 
-## 🛠️ Tools & Skills
+## Dashboard Preview
+![Sales Performance Dashboard](dashboard-screenshot.png)
 
-* Microsoft Excel
-* Data Cleaning & Analysis
-* Pivot Tables
-* Data Visualization
-* KPI Analysis
-* Dashboard Creation
-* Business Insights
+## Key Learning Outcomes
+- Data cleaning and preparation
+- Creating PivotTables and PivotCharts
+- Building interactive dashboards
+- Connecting KPI cards to PivotTables
+- Creating visual business reports
 
-## 📈 Key Metrics
-
-| Metric                |    Result |
-| --------------------- | --------: |
-| Total Sales           | ₹22.80 Cr |
-| Total Profit          |  ₹2.98 Cr |
-| Total Orders          |     5,000 |
-| Overall Profit Margin |    13.06% |
-
-## 🔍 Analysis Performed
-
-* Overall Sales & Profit Analysis
-* Category-wise Sales & Profit
-* Region-wise Sales & Profit
-* Year-wise Sales & Profit
-* Profitability Analysis
-* KPI Dashboard
-* Business Insights
-
-## 💡 Key Insights
-
-* Electronics generated the highest sales and profit.
-* North recorded the highest total sales and profit among the regions.
-* 2025 recorded the highest annual sales and profit.
-* Overall profit margin was 13.06%.
-
-## 📊 Dashboard Preview
-
-![Sales Performance Dashboard](dashboard-preview.png)
-
-## 📁 Project Files
-
-* `Sales_Performance_Dashboard.xlsx` — Complete Excel analysis and dashboard
-* `dashboard-preview.png` — Dashboard preview
-
-## 🎯 Project Objective
-
-The objective of this project is to transform raw sales data into meaningful business insights using Excel and present the results through a clear, professional dashboard.
+## Author
+Created as part of my Data Analytics learning journey.
