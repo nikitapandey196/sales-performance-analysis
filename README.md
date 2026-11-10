@@ -23,7 +23,7 @@ An interactive Sales Performance Dashboard built using Microsoft Excel to analyz
 - Interactive Region Slicer
 
 ## Dashboard Preview
-![Sales Performance Dashboard](dashboard-screenshot.png)
+![Sales Performance Dashboard](Sales_Dataset_dashboard_preview.png)
 
 ## Key Learning Outcomes
 - Data cleaning and preparation
